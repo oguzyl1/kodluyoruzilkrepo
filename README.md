@@ -11,6 +11,7 @@ Bu depo, n11 Teknik Eğitim (Bootcamp) sürecinde hazırladığım ödevleri iç
 - [02-oop-odevleri/04-online-film-sistemi](./02-oop-odevleri/04-online-film-sistemi/): Online film sistemi sınıf diyagramı ödevi.
 - [02-oop-odevleri/05-asansor-simulasyon-sistemi](./02-oop-odevleri/05-asansor-simulasyon-sistemi/): Asansör simülasyon sistemi sınıf diyagramı ödevi.
 - [03-java-101/01-not-ortalamasi-hesaplayan-program](./03-java-101/01-not-ortalamasi-hesaplayan-program/): Not ortalaması hesaplayan Java programı.
+- [03-java-101/02-kdv-tutari-hesaplayan-program](./03-java-101/02-kdv-tutari-hesaplayan-program/): KDV tutarı hesaplayan Java programı.
 
 ## Ortak Varlıklar
 
