@@ -8,6 +8,7 @@ Bu depo, n11 Teknik Eğitim (Bootcamp) sürecinde hazırladığım ödevleri iç
 - [02-oop-odevleri/01-universite-yonetim-sistemi](./02-oop-odevleri/01-universite-yonetim-sistemi/): Üniversite yönetim sistemi sınıf diyagramı ödevi.
 - [02-oop-odevleri/02-hayvanat-bahcesi-yonetimi](./02-oop-odevleri/02-hayvanat-bahcesi-yonetimi/): Hayvanat bahçesi yönetim sistemi sınıf diyagramı ödevi.
 - [02-oop-odevleri/03-hava-yolu-yonetim-sistemi](./02-oop-odevleri/03-hava-yolu-yonetim-sistemi/): Hava yolu yönetim sistemi sınıf diyagramı ödevi.
+- [02-oop-odevleri/04-online-film-sistemi](./02-oop-odevleri/04-online-film-sistemi/): Online film sistemi sınıf diyagramı ödevi.
 
 ## Ortak Varlıklar
 
