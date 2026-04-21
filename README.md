@@ -10,6 +10,7 @@ Bu depo, n11 Teknik Eğitim (Bootcamp) sürecinde hazırladığım ödevleri iç
 - [02-oop-odevleri/03-hava-yolu-yonetim-sistemi](./02-oop-odevleri/03-hava-yolu-yonetim-sistemi/): Hava yolu yönetim sistemi sınıf diyagramı ödevi.
 - [02-oop-odevleri/04-online-film-sistemi](./02-oop-odevleri/04-online-film-sistemi/): Online film sistemi sınıf diyagramı ödevi.
 - [02-oop-odevleri/05-asansor-simulasyon-sistemi](./02-oop-odevleri/05-asansor-simulasyon-sistemi/): Asansör simülasyon sistemi sınıf diyagramı ödevi.
+- [03-java-101/01-not-ortalamasi-hesaplayan-program](./03-java-101/01-not-ortalamasi-hesaplayan-program/): Not ortalaması hesaplayan Java programı.
 
 ## Ortak Varlıklar
 
