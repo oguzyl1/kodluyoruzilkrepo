@@ -30,5 +30,7 @@ public class Main {
 
         String b = sonuc >= 60 ? "Sınıfı Geçti" : "Sınıfta Kaldı";
         System.out.println(b);
+
+        inp.close();
     }
 }

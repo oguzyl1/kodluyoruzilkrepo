@@ -17,6 +17,14 @@ Bu depo, n11 Teknik Eğitim (Bootcamp) sürecinde hazırladığım ödevleri iç
 - [03-java-101/05-dairenin-alanini-ve-cevresini-hesaplayan-program](./03-java-101/05-dairenin-alanini-ve-cevresini-hesaplayan-program/): Dairenin alanını ve çevresini hesaplayan Java programı.
 - [03-java-101/06-vucut-kitle-indeksi-hesaplama](./03-java-101/06-vucut-kitle-indeksi-hesaplama/): Vücut kitle indeksi hesaplayan Java programı.
 - [03-java-101/07-manav-kasa-programi](./03-java-101/07-manav-kasa-programi/): Manav kasa tutarı hesaplayan Java programı.
+- [03-java-101/08-hesap-makinesi](./03-java-101/08-hesap-makinesi/): Switch-case kullanılarak yapılmış hesap makinesi.
+- [03-java-101/09-kullanici-girisi](./03-java-101/09-kullanici-girisi/): Şifre sıfırlama mekanizmalı kullanıcı giriş sistemi.
+- [03-java-101/10-hava-sicakligina-gore-etkinlik-onerme](./03-java-101/10-hava-sicakligina-gore-etkinlik-onerme/): Hava sıcaklığına göre etkinlik öneren sistem.
+- [03-java-101/11-sayilari-kucukten-buyuge-sirala](./03-java-101/11-sayilari-kucukten-buyuge-sirala/): Üç sayıyı küçükten büyüğe sıralayan program.
+- [03-java-101/12-burc-bulan-program](./03-java-101/12-burc-bulan-program/): İf-else yapısıyla kurgulanmış burç bulma sistemi.
+- [03-java-101/13-ucak-bileti-fiyat-hesaplama](./03-java-101/13-ucak-bileti-fiyat-hesaplama/): Mesafe ve yaş indirimli uçak bileti hesaplayıcısı.
+- [03-java-101/14-cin-zodyagi-hesaplama](./03-java-101/14-cin-zodyagi-hesaplama/): Doğum yılına göre Çin zodyağı hesaplayan program.
+- [03-java-101/15-artik-yil-hesaplama](./03-java-101/15-artik-yil-hesaplama/): Girilen yılın artık yıl olup olmadığını kontrol eden program.
 
 ## Ortak Varlıklar
 
