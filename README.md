@@ -1,26 +1,15 @@
-# Kodluyoruz İlk Repo 
-Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-end Eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası, bir adet de index.html barındırıyor. 
+# n11 Teknik Eğitim Ödevleri
 
-![github](figures/image.png)
+Bu depo, n11 Teknik Eğitim (Bootcamp) sürecinde hazırladığım ödevleri içermektedir. Tüm ödevler ilgili klasörler altında organize edilmiştir.
 
-## Installation
-Oncelikle projeyi clonelayın. 
+## Ödev Listesi
 
-```bash
-git clone https://github.com/oguzyl1/kodluyoruzilkrepo.git
-```
+- [01-git-github-odevi](./01-git-github-odevi/): Kodluyoruz Front-end eğitiminin ilk repo ödevi.
+- [02-oop-odevleri/01-universite-yonetim-sistemi](./02-oop-odevleri/01-universite-yonetim-sistemi/): Üniversite yönetim sistemi sınıf diyagramı ödevi.
 
-## Usage 
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+## Ortak Varlıklar
 
-```bash
-cd kodluyoruzilkrepo
-code .
-```
+- [figures/](./figures/): Tüm ödevlerde kullanılan ortak görseller ve diyagramlar bu klasörde yer almaktadır.
 
-## Contributing 
-Pull requestler kabul edilir. Büyük değişiklikler için önce lütfen neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-
-
-## License 
-[MIT](https://choosealicense.com/licenses/mit/)
+---
+*Bu depo eğitim sürecindeki ilerlememi takip etmek için oluşturulmuştur.*
