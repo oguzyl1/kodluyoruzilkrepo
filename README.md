@@ -13,6 +13,10 @@ Bu depo, n11 Teknik Eğitim (Bootcamp) sürecinde hazırladığım ödevleri iç
 - [03-java-101/01-not-ortalamasi-hesaplayan-program](./03-java-101/01-not-ortalamasi-hesaplayan-program/): Not ortalaması hesaplayan Java programı.
 - [03-java-101/02-kdv-tutari-hesaplayan-program](./03-java-101/02-kdv-tutari-hesaplayan-program/): KDV tutarı hesaplayan Java programı.
 - [03-java-101/03-ucgenin-alanini-hesaplayan-program](./03-java-101/03-ucgenin-alanini-hesaplayan-program/): Üçgenin alanını hesaplayan Java programı.
+- [03-java-101/04-taksimetre-programi](./03-java-101/04-taksimetre-programi/): Taksimetre hesaplayan Java programı.
+- [03-java-101/05-dairenin-alanini-ve-cevresini-hesaplayan-program](./03-java-101/05-dairenin-alanini-ve-cevresini-hesaplayan-program/): Dairenin alanını ve çevresini hesaplayan Java programı.
+- [03-java-101/06-vucut-kitle-indeksi-hesaplama](./03-java-101/06-vucut-kitle-indeksi-hesaplama/): Vücut kitle indeksi hesaplayan Java programı.
+- [03-java-101/07-manav-kasa-programi](./03-java-101/07-manav-kasa-programi/): Manav kasa tutarı hesaplayan Java programı.
 
 ## Ortak Varlıklar
 
