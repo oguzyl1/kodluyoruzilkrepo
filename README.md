@@ -58,6 +58,7 @@ Bu depo, n11 Teknik Eğitim (Bootcamp) sürecinde hazırladığım ödevleri iç
 - [03-java-101/46-matris-transpozunu-bulma](./03-java-101/46-matris-transpozunu-bulma/): Çok boyutlu diziler ile oluşturulmuş bir matrisin transpozunu (devriğini) hesaplayan program.
 - [03-java-101/47-sayi-tahmin-oyunu](./03-java-101/47-sayi-tahmin-oyunu/): 0-100 arasında rastgele seçilen sayıyı tahmin etmeye çalıştığımız etkileşimli oyun.
 - [03-java-101/48-palindromik-kelime-bulma](./03-java-101/48-palindromik-kelime-bulma/): Kullanıcının girdiği kelimenin tersten okunuşuyla aynı olup olmadığını kontrol eden program.
+- [03-java-101/49-mayin-tarlasi-oyunu](./03-java-101/49-mayin-tarlasi-oyunu/): Metin tabanlı, matris boyutunun kullanıcı tarafından belirlendiği kapsamlı Mayın Tarlası oyunu.
 
 ## Ortak Varlıklar
 
