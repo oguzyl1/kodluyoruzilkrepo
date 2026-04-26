@@ -40,6 +40,7 @@ Bu depo, n11 Teknik Eğitim (Bootcamp) sürecinde hazırladığım ödevleri iç
 - [03-java-101/28-ters-ucgen-yapimi](./03-java-101/28-ters-ucgen-yapimi/): Kullanıcıdan alınan basamak sayısına göre yıldızlarla ters üçgen çizen program.
 - [03-java-101/29-asal-sayilari-bulan-program](./03-java-101/29-asal-sayilari-bulan-program/): 1-100 arasındaki asal sayıları ekrana yazdıran program.
 - [03-java-101/30-fibonacci-serisi](./03-java-101/30-fibonacci-serisi/): Kullanıcıdan alınan eleman sayısına göre Fibonacci serisi basan program.
+- [03-java-101/31-mukemmel-sayi-bulma](./03-java-101/31-mukemmel-sayi-bulma/): Girilen sayının mükemmel sayı olup olmadığını kontrol eden program.
 
 ## Ortak Varlıklar
 
