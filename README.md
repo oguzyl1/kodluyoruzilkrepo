@@ -25,6 +25,21 @@ Bu depo, n11 Teknik Eğitim (Bootcamp) sürecinde hazırladığım ödevleri iç
 - [03-java-101/13-ucak-bileti-fiyat-hesaplama](./03-java-101/13-ucak-bileti-fiyat-hesaplama/): Mesafe ve yaş indirimli uçak bileti hesaplayıcısı.
 - [03-java-101/14-cin-zodyagi-hesaplama](./03-java-101/14-cin-zodyagi-hesaplama/): Doğum yılına göre Çin zodyağı hesaplayan program.
 - [03-java-101/15-artik-yil-hesaplama](./03-java-101/15-artik-yil-hesaplama/): Girilen yılın artık yıl olup olmadığını kontrol eden program.
+- [03-java-101/16-dongu-odevi-1](./03-java-101/16-dongu-odevi-1/): 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan program.
+- [03-java-101/17-dongu-odevi-2](./03-java-101/17-dongu-odevi-2/): Tek sayı girilene kadar çift ve 4'ün katlarını toplayan program.
+- [03-java-101/18-dongu-odevi-3](./03-java-101/18-dongu-odevi-3/): Girilen sayıya kadar 4 ve 5'in kuvvetlerini basan program.
+- [03-java-101/19-kombinasyon-hesaplama](./03-java-101/19-kombinasyon-hesaplama/): N elemanlı bir kümenin r'li kombinasyonunu hesaplayan program.
+- [03-java-101/20-uslu-sayi-hesaplama](./03-java-101/20-uslu-sayi-hesaplama/): For döngüsü kullanarak üslü sayı hesaplayan program.
+- [03-java-101/21-armstrong-sayi-bulma](./03-java-101/21-armstrong-sayi-bulma/): Sayının hanelerinin üsleri toplamı kendisine eşit mi kontrol eden program.
+- [03-java-101/22-basamak-sayilari-toplami](./03-java-101/22-basamak-sayilari-toplami/): Girilen sayının rakamlarının toplamını hesaplayan program.
+- [03-java-101/23-harmonik-seri-hesaplama](./03-java-101/23-harmonik-seri-hesaplama/): Girilen sayının harmonik serisini bulan program.
+- [03-java-101/24-yildiz-ile-elmas-yapimi](./03-java-101/24-yildiz-ile-elmas-yapimi/): Döngülerle yıldızlardan elmas deseni oluşturan program.
+- [03-java-101/25-atm-projesi](./03-java-101/25-atm-projesi/): Switch-case yapısı kullanılarak geliştirilmiş banka ATM simülasyonu.
+- [03-java-101/26-ebob-ekok-bulma](./03-java-101/26-ebob-ekok-bulma/): Girilen iki sayının EBOB ve EKOK değerlerini bulan program.
+- [03-java-101/27-min-max-bulma](./03-java-101/27-min-max-bulma/): Klavyeden girilen N tane sayıdan en büyük ve en küçük olanları bulan program.
+- [03-java-101/28-ters-ucgen-yapimi](./03-java-101/28-ters-ucgen-yapimi/): Kullanıcıdan alınan basamak sayısına göre yıldızlarla ters üçgen çizen program.
+- [03-java-101/29-asal-sayilari-bulan-program](./03-java-101/29-asal-sayilari-bulan-program/): 1-100 arasındaki asal sayıları ekrana yazdıran program.
+- [03-java-101/30-fibonacci-serisi](./03-java-101/30-fibonacci-serisi/): Kullanıcıdan alınan eleman sayısına göre Fibonacci serisi basan program.
 
 ## Ortak Varlıklar
 
