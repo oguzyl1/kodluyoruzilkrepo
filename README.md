@@ -46,6 +46,9 @@ Bu depo, n11 Teknik Eğitim (Bootcamp) sürecinde hazırladığım ödevleri iç
 - [03-java-101/34-recursive-us-hesaplama](./03-java-101/34-recursive-us-hesaplama/): Taban ve üs değerleri kullanıcıdan alınan, recursive metotla üslü sayı hesaplayan program.
 - [03-java-101/35-recursive-asal-sayi-bulma](./03-java-101/35-recursive-asal-sayi-bulma/): Kullanıcıdan alınan sayının asal olup olmadığını recursive metotla bulan program.
 - [03-java-101/36-desene-gore-metot-olusturma](./03-java-101/36-desene-gore-metot-olusturma/): Döngü kullanmadan, girilen sayıdan 5 çıkarıp tekrar ekleyerek desen oluşturan recursive metot.
+- [03-java-101/37-ogrenci-bilgi-sistemi](./03-java-101/37-ogrenci-bilgi-sistemi/): Nesne yönelimli programlama kullanılarak, sözlü notu etki oranlı öğrenci not sistemi.
+- [03-java-101/38-boks-maci](./03-java-101/38-boks-maci/): Nesne yönelimli programlama ile %50 ilk vuruş olasılıklı boks maçı simülasyonu.
+- [03-java-101/39-maas-hesaplayici](./03-java-101/39-maas-hesaplayici/): Çalışanların maaşlarını vergi, bonus ve kıdem zammına göre hesaplayan OOP çalışması.
 
 ## Ortak Varlıklar
 
