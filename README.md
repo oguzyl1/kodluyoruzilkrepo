@@ -49,6 +49,13 @@ Bu depo, n11 Teknik Eğitim (Bootcamp) sürecinde hazırladığım ödevleri iç
 - [03-java-101/37-ogrenci-bilgi-sistemi](./03-java-101/37-ogrenci-bilgi-sistemi/): Nesne yönelimli programlama kullanılarak, sözlü notu etki oranlı öğrenci not sistemi.
 - [03-java-101/38-boks-maci](./03-java-101/38-boks-maci/): Nesne yönelimli programlama ile %50 ilk vuruş olasılıklı boks maçı simülasyonu.
 - [03-java-101/39-maas-hesaplayici](./03-java-101/39-maas-hesaplayici/): Çalışanların maaşlarını vergi, bonus ve kıdem zammına göre hesaplayan OOP çalışması.
+- [03-java-101/40-harmonik-ortalama-hesaplama](./03-java-101/40-harmonik-ortalama-hesaplama/): Dizideki sayıların harmonik serisini ve harmonik ortalamasını hesaplayan program.
+- [03-java-101/41-dizideki-en-yakin-sayilar](./03-java-101/41-dizideki-en-yakin-sayilar/): Dizideki elemanların girilen sayıya en yakın küçük ve en yakın büyük değerlerini bulan program.
+- [03-java-101/42-cok-boyutlu-dizi-b-harfi](./03-java-101/42-cok-boyutlu-dizi-b-harfi/): Çok boyutlu diziler kullanarak yıldızlarla ekrana "B" harfi yazdıran program.
+- [03-java-101/43-dizideki-tekrar-eden-sayilar](./03-java-101/43-dizideki-tekrar-eden-sayilar/): Bir sayı dizisindeki tekrar eden çift sayıları belirleyen program.
+- [03-java-101/44-dizideki-elemanlari-sirala](./03-java-101/44-dizideki-elemanlari-sirala/): Kullanıcıdan alınan dizi boyutuna ve elemanlarına göre sayıları küçükten büyüğe sıralayan program.
+- [03-java-101/45-dizideki-eleman-frekansi](./03-java-101/45-dizideki-eleman-frekansi/): Dizideki elemanların kaç kez tekrar edildiğini (frekanslarını) bulan program.
+- [03-java-101/46-matris-transpozunu-bulma](./03-java-101/46-matris-transpozunu-bulma/): Çok boyutlu diziler ile oluşturulmuş bir matrisin transpozunu (devriğini) hesaplayan program.
 
 ## Ortak Varlıklar
 
