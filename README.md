@@ -41,6 +41,11 @@ Bu depo, n11 Teknik Eğitim (Bootcamp) sürecinde hazırladığım ödevleri iç
 - [03-java-101/29-asal-sayilari-bulan-program](./03-java-101/29-asal-sayilari-bulan-program/): 1-100 arasındaki asal sayıları ekrana yazdıran program.
 - [03-java-101/30-fibonacci-serisi](./03-java-101/30-fibonacci-serisi/): Kullanıcıdan alınan eleman sayısına göre Fibonacci serisi basan program.
 - [03-java-101/31-mukemmel-sayi-bulma](./03-java-101/31-mukemmel-sayi-bulma/): Girilen sayının mükemmel sayı olup olmadığını kontrol eden program.
+- [03-java-101/32-palindrom-sayi-bulma](./03-java-101/32-palindrom-sayi-bulma/): Girilen sayının palindrom olup olmadığını kontrol eden program.
+- [03-java-101/33-gelismis-hesap-makinesi](./03-java-101/33-gelismis-hesap-makinesi/): Metotlar kullanılarak geliştirilmiş, mod alma ve geometrik hesaplamalar içeren hesap makinesi.
+- [03-java-101/34-recursive-us-hesaplama](./03-java-101/34-recursive-us-hesaplama/): Taban ve üs değerleri kullanıcıdan alınan, recursive metotla üslü sayı hesaplayan program.
+- [03-java-101/35-recursive-asal-sayi-bulma](./03-java-101/35-recursive-asal-sayi-bulma/): Kullanıcıdan alınan sayının asal olup olmadığını recursive metotla bulan program.
+- [03-java-101/36-desene-gore-metot-olusturma](./03-java-101/36-desene-gore-metot-olusturma/): Döngü kullanmadan, girilen sayıdan 5 çıkarıp tekrar ekleyerek desen oluşturan recursive metot.
 
 ## Ortak Varlıklar
 
